@@ -41,7 +41,9 @@ Team Member3: J.Harshitha - Sri Venkateswara College of Engineering
 ---
 
 ### To run website
-- git clone https://github.com/HemaSai777/quick-lms-hub
+- git clone https://github.com/HemaSai777/EDULEARN
 - npm install
 - npm start
 
+### To test website
+quick-lms-qxn3zho2s-hemasais-projects-b01cb09f.vercel.app
