@@ -1,73 +1,40 @@
-# Welcome to your Lovable project
+## About the Project
+This is a collaborative project developed by our team.  
+It is a full-stack application that provides interactive AI tools and a learning platform for users to explore and experiment with AI concepts.  
 
-## Project info
+This project was built with the goal of creating an intuitive and user-friendly AI learning platform for students and enthusiasts.
 
-**URL**: https://lovable.dev/projects/4c3d6a03-0a77-4888-8f8c-3ed6ce23729d
+---
 
-## How can I edit this code?
+## Team Members
+Team lead: D.Hema Sai - Amrita Vishwa Vidyapeetham, Chennai
+Team Member1: P.Meghana - Mohan Babu University
+Team Member2: C.Hema Naga Sree - Mohan Babu University
+Team Member3: J.Harshitha - Sri Venkateswara College of Engineering
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## Features
+- Interactive AI learning platform
+- Course and tutorial management
+- Responsive design for web and mobile
+- Easy to deploy and extend
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4c3d6a03-0a77-4888-8f8c-3ed6ce23729d) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## Tech Stack
+- Frontend: React.js
+- Backend: Node.js / Express
+- Database: MongoDB
+- Hosting: Vercel
+- Other Tools: Git, GitHub, Tailwind CSS, Postman
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## How to Run the Project Locally
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Prerequisites
+- Node.js and npm installed
+- Git installed
+- MongoDB Compass
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/4c3d6a03-0a77-4888-8f8c-3ed6ce23729d) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
