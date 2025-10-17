@@ -41,7 +41,7 @@ Team Member3: J.Harshitha - Sri Venkateswara College of Engineering
 ---
 
 ### To run website
-git clone https://github.com/HemaSai777/quick-lms-hub
-npm install
-npm start
+- git clone https://github.com/HemaSai777/quick-lms-hub
+- npm install
+- npm start
 
