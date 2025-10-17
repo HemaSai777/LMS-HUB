@@ -7,7 +7,7 @@ This project was built with the goal of creating an intuitive and user-friendly 
 ---
 
 ## Team Members
-Team lead: D.Hema Sai - Amrita Vishwa Vidyapeetham, Chennai
+Team Lead: D.Hema Sai - Amrita Vishwa Vidyapeetham, Chennai
 Team Member1: P.Meghana - Mohan Babu University
 Team Member2: C.Hema Naga Sree - Mohan Babu University
 Team Member3: J.Harshitha - Sri Venkateswara College of Engineering
@@ -37,4 +37,11 @@ Team Member3: J.Harshitha - Sri Venkateswara College of Engineering
 - Node.js and npm installed
 - Git installed
 - MongoDB Compass
+
+---
+
+### To run website
+git clone https://github.com/HemaSai777/quick-lms-hub
+npm install
+npm start
 
