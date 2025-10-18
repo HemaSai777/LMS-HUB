@@ -22,8 +22,8 @@
 ---
 
 ## Tech Stack
-- Frontend: React.js
-- Backend: Node.js / Express
+- Frontend: React.js / Express
+- Backend: Node.js
 - Database: MongoDB
 - Hosting: Vercel
 - Other Tools: Git, GitHub, Tailwind CSS, Postman
@@ -45,4 +45,4 @@
 - npm start
 
 ### To test website
-   https://quick-lms-hub.vercel.app
+- https://quick-lms-hub.vercel.app
