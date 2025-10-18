@@ -1,16 +1,15 @@
 ## About the Project
-This is a collaborative project developed by our team.  
-It is a full-stack application that provides interactive AI tools and a learning platform for users to explore and experiment with AI concepts.  
-
-This project was built with the goal of creating an intuitive and user-friendly AI learning platform for students and enthusiasts.
+ - Project Name: EDULEARN
+ - This is a collaborative project developed by our team.  
+ - It is a full-stack application that allows Teacher student interaction with features like course enrollment,assigments,grading,etc.
 
 ---
 
 ## Team Members
-Team Lead: D.Hema Sai - Amrita Vishwa Vidyapeetham, Chennai
-Team Member1: P.Meghana - Mohan Babu University
-Team Member2: C.Hema Naga Sree - Mohan Babu University
-Team Member3: J.Harshitha - Sri Venkateswara College of Engineering
+ - Team Lead: D.Hema Sai - Amrita Vishwa Vidyapeetham, Chennai
+ - Team Member1: P.Meghana - Mohan Babu University
+ - Team Member2: C.Hema Naga Sree - Mohan Babu University
+ - Team Member3: J.Harshitha - Sri Venkateswara College of Engineering
 
 ---
 
@@ -46,4 +45,4 @@ Team Member3: J.Harshitha - Sri Venkateswara College of Engineering
 - npm start
 
 ### To test website
-   quick-lms-qxn3zho2s-hemasais-projects-b01cb09f.vercel.app
+   https://quick-lms-hub.vercel.app
