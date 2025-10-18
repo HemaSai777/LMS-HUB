@@ -26,7 +26,7 @@
 - Backend: Node.js
 - Database: MongoDB
 - Hosting: Vercel
-- Other Tools: Git, GitHub, Tailwind CSS, Postman
+- Other Tools: Git, GitHub, Tailwind CSS, Postman ,Supabase
 
 ---
 
